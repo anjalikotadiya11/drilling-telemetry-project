@@ -1,0 +1,16 @@
+# Core Dependencies
+pyzmq>=25.1.0
+flask>=3.0.0
+flask-socketio>=5.3.0
+python-socketio>=5.10.0
+
+# Web Server
+eventlet>=0.33.3
+simple-websocket>=1.0.0
+
+# Data & Analytics
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Optional: For enhanced logging
+python-dotenv>=1.0.0
